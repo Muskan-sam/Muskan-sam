@@ -57,7 +57,7 @@ I am a sophomore at VIT, India, pursuing an Integrated Masters of Technology in 
 
 <p align="center">
     <a href="https://github.com/Muskan-sam/github-readme-stats">
-        <img alt="Muskan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muskan-sam&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+        <img alt="Muskan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muskan-sam&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=False"/>
     </a>
 </p>
 
@@ -81,7 +81,7 @@ I am a sophomore at VIT, India, pursuing an Integrated Masters of Technology in 
 </br>
 <p align="center">
   <a href="https://github.com/Muskan-sam/github-readme-activity-graph">
-        <img alt="Muskan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Muskan-sam&theme=material-palenight&hide_border=true&bg_color=0D1117"/>
+        <img alt="Muskan's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Muskan-sam&theme=material-palenight&hide_border=true&bg_color=0D1117"/>
     </a>
 </p>
 
