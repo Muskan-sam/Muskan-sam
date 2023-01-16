@@ -71,6 +71,7 @@ I am a sophomore at VIT, India, pursuing an Integrated Masters of Technology in 
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Muskan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Muskan-sam&theme=tokyonight_duo&hide_border=true&bg_color=0D1117"/>
     </a>
 </p>
+
 <p align="center">
     <a href="https://github.com/Muskan-sam/github-readme-stats">
         <img alt="Muskan's stats" src="https://github-readme-stats.vercel.app/api?username=Muskan-sam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
