@@ -25,7 +25,7 @@
 <!-- About me -->
 
 ## 🙋‍ About Me
-I am a sophomore at VIT, India, pursuing an Integrated Masters of Technology in Software Engineering. I am a self-taught frontend web developer with a passion for coding and an open-source enthusiast.
+I am a Middler at VIT, India, pursuing an Integrated Masters of Technology in Software Engineering. I am a self-taught frontend web developer with a passion for coding and an open-source enthusiast.
 - 😄 Pronouns: **She/Her**
 - 🔭 currently working on **My Portfolio**
 - 🌱 Currently learning: **ReactJS**, **Flutter** 
