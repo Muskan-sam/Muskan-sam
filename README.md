@@ -81,7 +81,7 @@ I am a Middler at VIT, India, pursuing an Integrated Masters of Technology in So
 </br>
 <p align="center">
   <a href="https://github.com/Muskan-sam/github-readme-activity-graph">
-        <img alt="Muskan's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Muskan-sam&theme=material-palenight&hide_border=true&bg_color=0D1117"/>
+        <img alt="Muskan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Muskan-sam&theme=material-palenight&hide_border=true&bg_color=0D1117"/>
     </a>
 </p>
 
