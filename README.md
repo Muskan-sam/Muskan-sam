@@ -25,11 +25,11 @@
 <!-- About me -->
 
 ## 🙋‍ About Me
-I am in my penultimate year at VIT, India, pursuing an Integrated Masters of Technology in Software Engineering. I am a self-taught frontend web developer with a passion for coding and an open-source enthusiast.
+I am in my penultimate year at VIT, India, pursuing an Integrated Masters of Technology in Software Engineering. I am a self-taught Application developer with a passion for coding and an ML & DL enthusiast.
 - 😄 Pronouns: **She/Her**
 - 🔭 currently working on **A Gen AI project**
 - 🌱 Currently learning: **React native**, **ANN** 
-- ⚙️ Mastering: `.html`, `.css`, `.js`, `.java`, `.py`
+- ⚙️ Mastering: `.html`, `.css`, `.js`, `.java`, `.py`,`.dart`
 - 👯 I’m actively looking for **Internships** and to collaborate on **OpenSource Projects**
 
 </br>
