@@ -76,11 +76,11 @@ I’m particularly enthusiastic about the current wave of **AI innovation** — 
 
 ---
 
-<!-- <p align="center">
+<p align="center">
     <a href="https://github.com/Muskan-sam/github-readme-streak-stats">
         <img alt="Muskan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muskan-sam&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
     </a>
-</p> -->
+</p>
 
 </br>
 
