@@ -25,12 +25,17 @@
 <!-- About me -->
 
 ## 🙋‍ About Me
-I am in my penultimate year at VIT, India, pursuing an Integrated Masters of Technology in Software Engineering. I am a self-taught Application developer with a passion for coding and an ML & DL enthusiast.
+I’m a **Software Development Engineer (iOS)** at **Philips**, building production-scale mobile experiences used by millions globally.  
+I hold an **Integrated M.Tech in Software Engineering** and specialize in **native iOS development**, **scalable mobile architecture**, and **AI-powered product experiences**.
+
+I’m particularly enthusiastic about the current wave of **AI innovation** — from **GenAI-powered features** to **on-device intelligence**, **ML-driven personalization**, and **AI-assisted developer workflows**.
+
 - 😄 Pronouns: **She/Her**
-- 🔭 currently working on **A Gen AI project**
-- 🌱 Currently learning: **React native**, **ANN** 
-- ⚙️ Mastering: `.html`, `.css`, `.js`, `.java`, `.py`,`.dart`
-- 👯 I’m actively looking for **Internships** and to collaborate on **OpenSource Projects**
+- 💼 Current Role: **SDE (iOS) @ Philips**
+- 📱 Core Focus: **Swift, SwiftUI, UIKit, iOS Architecture**
+- 🤖 Interests: **GenAI, Applied ML, AI-powered UX**
+- 🌱 Exploring: **AI agents, on-device ML, LLM integrations**
+- 🤝 Open to: **Open-source collaboration, AI + Mobile projects**
 
 </br>
 
@@ -39,27 +44,43 @@ I am in my penultimate year at VIT, India, pursuing an Integrated Masters of Tec
 
 ## 🚀 Languages and Tools
 
-![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+### 💻 Programming & Mobile
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
+![](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![](https://img.shields.io/badge/SwiftUI-0A84FF?style=for-the-badge&logo=swift&logoColor=white)
+![](https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white)
+![](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+
+### 🌐 Web & Backend
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
-![](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+
+### 🤖 AI / ML
+![](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge)
+![](https://img.shields.io/badge/Deep_Learning-4B0082?style=for-the-badge)
+![](https://img.shields.io/badge/GenAI-6E00FF?style=for-the-badge)
+
+### 🛠 Tools
+![](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
 ![](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![](https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 
 
-<p align="center">
-    <a href="https://github.com/Muskan-sam/github-readme-stats">
+---
+
+<!-- <p align="center">
+    <a href="https://github.com/Muskan-sam/github-readme-streak-stats">
         <img alt="Muskan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muskan-sam&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
     </a>
-</p>
+</p> -->
 
 </br>
 
